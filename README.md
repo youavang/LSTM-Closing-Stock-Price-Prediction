@@ -1,1 +1,2 @@
 # LSTM-Closing-Stock-Price-Prediction
+This progream uses an artificial recurrent network called Long Short Term Mememory (LSTM) to predict the closing stock price of a corporation (Amazon.com Inc.) using the past 60 day stock price. We will be analyzing the stock trend from 2012 to 2020-04-01 and train our model. The objective is gauge the accuracy of the LSTM model in predicting the closing stock price that will help us decide whether or not to invest in the stock market now.
